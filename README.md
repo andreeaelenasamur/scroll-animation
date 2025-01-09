@@ -8,7 +8,7 @@ This project demonstrates how to animate elements as they come into view while s
 - **JavaScript**: For detecting scroll events and triggering animations.
 
 ## Preview
-You can see the live demo of the project [here](https://github.com/andreeaelenasamur/scroll-animation.git)
+You can see the live demo of the project [here](https://andreeaelenasamur.github.io/scroll-animation/)
 
 ## Installation
 To run this project locally:
