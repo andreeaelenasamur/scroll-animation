@@ -2,6 +2,7 @@
 
 * {
     box-sizing: border-box;
+    --background: [red, yellow, black];
 }
 
 body {
@@ -20,7 +21,6 @@ h1 {
 }
 
 .box {
-    background-color: steelblue;
     color: #fff;
     display: flex;
     align-items: center;
@@ -44,4 +44,56 @@ h1 {
 
 .box h2 {
     font-size: 45px;
+}
+
+.box.purple {
+    background-color: purple;
+}
+
+.box.pink {
+    background-color: pink;
+}
+
+.box.brown {
+    background-color: brown;
+}
+
+.box.orange {
+    background-color: orange;
+}
+
+.box.red {
+    background-color: red;
+}
+
+.box.blue {
+    background-color: blue;
+}
+
+.box.yellow {
+    background-color: yellow;
+}
+
+.box.black {
+    background-color: black;
+}
+
+.box.gray {
+    background-color: gray;
+}
+
+.box.gold {
+    background-color: gold;
+}
+
+.box.violet {
+    background-color: violet;
+}
+
+.box.salmon {
+    background-color: salmon;
+}
+
+.box.aquamarine {
+    background-color: aquamarine;
 }
